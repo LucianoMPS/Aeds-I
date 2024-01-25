@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650576806 source:c:\meu algoritmos\huaauhahhuahau\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

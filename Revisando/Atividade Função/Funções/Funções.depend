@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631971453 source:c:\meu algoritmos\funções\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

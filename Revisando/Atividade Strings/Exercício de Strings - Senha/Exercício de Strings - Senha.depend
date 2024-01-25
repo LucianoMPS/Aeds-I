@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633189550 source:c:\meu algoritmos\exercício de strings - senha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646324745 source:c:\meu algoritmos\gasto de combustivel\main.c
+	<stdio.h>
+	<stdlib.h>
+

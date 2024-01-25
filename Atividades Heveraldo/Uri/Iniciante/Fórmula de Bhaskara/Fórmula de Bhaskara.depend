@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646931764 source:c:\meu algoritmos\fórmula de bhaskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

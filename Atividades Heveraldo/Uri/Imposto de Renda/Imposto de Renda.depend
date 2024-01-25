@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649764644 source:c:\meu algoritmos\imposto de renda\main.c
+	<stdio.h>
+	<stdlib.h>
+

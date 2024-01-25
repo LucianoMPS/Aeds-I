@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633950754 source:c:\meu algoritmos\abracadabra\main.c
+	<stdio.h>
+	<string.h>
+

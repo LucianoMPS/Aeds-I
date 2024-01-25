@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630582356 source:c:\meu algoritmos\idade em dias\main.c
+	<stdio.h>
+	<stdlib.h>
+

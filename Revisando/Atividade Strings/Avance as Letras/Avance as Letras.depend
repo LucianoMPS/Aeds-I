@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1633864032 source:c:\meu algoritmos\avance as letras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1633887359 source:c:\meu algoritmos\atividade strings\avance as letras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

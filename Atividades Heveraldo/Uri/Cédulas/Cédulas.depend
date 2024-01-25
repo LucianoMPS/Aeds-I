@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649760556 source:c:\meu algoritmos\cédulas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1649760556 source:c:\meu algoritmos\aeds i\atividades heveraldo\uri\cédulas\main.c
+	<stdio.h>
+	<stdlib.h>
+

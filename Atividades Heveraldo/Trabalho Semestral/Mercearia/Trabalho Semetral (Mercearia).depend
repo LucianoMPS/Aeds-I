@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1636068910 source:c:\meu algoritmos\trabalho semetral (mercearia)\interface.c
+	"Interface.h"
+
+1636059260 c:\meu algoritmos\trabalho semetral (mercearia)\interface.h
+	<windows.h>
+
+1636068626 source:c:\meu algoritmos\trabalho semetral (mercearia)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Interface.h"
+	"Produtos.h"
+	"Tela Principal.h"
+
+1636065619 c:\meu algoritmos\trabalho semetral (mercearia)\produtos.h
+
+1636062186 c:\meu algoritmos\trabalho semetral (mercearia)\tela principal.h
+
+1636069316 source:c:\meu algoritmos\trabalho semetral (mercearia)\produtos.c
+	<stdio.h>
+	"Produtos.h"
+	"Interface.h"
+
+1636068496 source:c:\meu algoritmos\trabalho semetral (mercearia)\tela principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Interface.h"
+
+1636743666 source:c:\meu algoritmos\trabalho semestral\trabalho semetral (mercearia)\interface.c
+	"Interface.h"
+
+1636743664 c:\meu algoritmos\trabalho semestral\trabalho semetral (mercearia)\interface.h
+	<windows.h>
+
+1638378914 source:c:\meu algoritmos\trabalho semestral\trabalho semetral (mercearia)\produtos.c
+	<stdio.h>
+	"Produtos.h"
+	"Interface.h"
+
+1638378918 c:\meu algoritmos\trabalho semestral\trabalho semetral (mercearia)\produtos.h
+
+1636743803 source:c:\meu algoritmos\trabalho semestral\trabalho semetral (mercearia)\tela principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Interface.h"
+
+1638884471 source:c:\meu algoritmos\trabalho semestral\trabalho semetral (mercearia)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Interface.h"
+	"Produtos.h"
+	"Tela Principal.h"
+	"Caixa.h"
+	"Vendas.h"
+
+1636491365 c:\meu algoritmos\trabalho semestral\trabalho semetral (mercearia)\tela principal.h
+
+1638884471 source:c:\meu algoritmos\trabalho semestral\trabalho semetral (mercearia)\caixa.c
+	<stdio.h>
+	"Caixa.h"
+	"Interface.h"
+	"Produtos.h"
+
+1638380612 c:\meu algoritmos\trabalho semestral\trabalho semetral (mercearia)\caixa.h
+	"Produtos.h"
+
+1638381818 source:c:\meu algoritmos\trabalho semestral\trabalho semetral (mercearia)\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Vendas.h"
+	"Interface.h"
+
+1638381820 c:\meu algoritmos\trabalho semestral\trabalho semetral (mercearia)\vendas.h
+
+1638884471 source:c:\meu algoritmos\aeds i\atividades heveraldo\trabalho semestral\mercearia\caixa.c
+	<stdio.h>
+	"Caixa.h"
+	"Interface.h"
+	"Produtos.h"
+
+1638380612 c:\meu algoritmos\aeds i\atividades heveraldo\trabalho semestral\mercearia\caixa.h
+	"Produtos.h"
+
+1638378918 c:\meu algoritmos\aeds i\atividades heveraldo\trabalho semestral\mercearia\produtos.h
+
+1636743664 c:\meu algoritmos\aeds i\atividades heveraldo\trabalho semestral\mercearia\interface.h
+	<windows.h>
+
+1636743666 source:c:\meu algoritmos\aeds i\atividades heveraldo\trabalho semestral\mercearia\interface.c
+	"Interface.h"
+
+1638884471 source:c:\meu algoritmos\aeds i\atividades heveraldo\trabalho semestral\mercearia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Interface.h"
+	"Produtos.h"
+	"Tela Principal.h"
+	"Caixa.h"
+	"Vendas.h"
+
+1636491365 c:\meu algoritmos\aeds i\atividades heveraldo\trabalho semestral\mercearia\tela principal.h
+
+1638381820 c:\meu algoritmos\aeds i\atividades heveraldo\trabalho semestral\mercearia\vendas.h
+
+1638378914 source:c:\meu algoritmos\aeds i\atividades heveraldo\trabalho semestral\mercearia\produtos.c
+	<stdio.h>
+	"Produtos.h"
+	"Interface.h"
+
+1636743803 source:c:\meu algoritmos\aeds i\atividades heveraldo\trabalho semestral\mercearia\tela principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Interface.h"
+
+1638381818 source:c:\meu algoritmos\aeds i\atividades heveraldo\trabalho semestral\mercearia\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Vendas.h"
+	"Interface.h"
+

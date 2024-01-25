@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632344394 source:c:\meu algoritmos\primo rapido\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630579540 source:c:\meu algoritmos\distancia entre dois pontos\main.c
+	<stdio.h>
+	<stdlib.h>
+

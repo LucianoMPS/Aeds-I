@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646327043 source:c:\meu algoritmos\conversão de tempo\main.c
+	<stdio.h>
+	<stdlib.h>
+

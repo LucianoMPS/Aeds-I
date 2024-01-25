@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633781301 source:c:\meu algoritmos\sequência espelho\main.c
+	<stdio.h>
+	<stdlib.h>
+

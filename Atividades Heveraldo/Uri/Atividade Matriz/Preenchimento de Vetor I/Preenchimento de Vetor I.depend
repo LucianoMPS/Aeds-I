@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632998695 source:c:\meu algoritmos\preenchimento de vetor i\main.c
+	<stdio.h>
+	<stdlib.h>
+

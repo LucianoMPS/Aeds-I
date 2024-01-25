@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649852952 source:c:\meu algoritmos\matriz quadrada iii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

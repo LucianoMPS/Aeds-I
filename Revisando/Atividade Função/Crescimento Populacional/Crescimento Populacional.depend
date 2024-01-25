@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1632220849 source:c:\meu algoritmos\crescimento populacional\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1632310469 source:c:\meu algoritmos\atividade função\crescimento populacional\main.c
+	<stdio.h>
+	<stdlib.h>
+

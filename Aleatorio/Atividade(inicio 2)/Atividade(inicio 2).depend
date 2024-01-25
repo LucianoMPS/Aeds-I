@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630153602 source:c:\meu algoritmos\atividade(inicio 2)\main.c
+	<stdio.h>
+	<stdlib.h>
+

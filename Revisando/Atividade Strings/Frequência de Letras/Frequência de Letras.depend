@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633888579 source:c:\meu algoritmos\atividade strings\frequência de letras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

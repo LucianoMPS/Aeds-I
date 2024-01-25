@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639230810 source:c:\meu algoritmos\media de uma sequencia numerica\main.c
+	<stdio.h>
+	<stdlib.h>
+

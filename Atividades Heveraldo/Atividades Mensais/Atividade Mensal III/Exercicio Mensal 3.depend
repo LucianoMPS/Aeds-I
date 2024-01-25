@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1637953603 source:c:\meu algoritmos\exercicio mensal 3\viagens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Viagens.h"
+
+1637925552 c:\meu algoritmos\exercicio mensal 3\viagens.h
+
+1637952828 source:c:\meu algoritmos\exercicio mensal 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Viagens.h"
+

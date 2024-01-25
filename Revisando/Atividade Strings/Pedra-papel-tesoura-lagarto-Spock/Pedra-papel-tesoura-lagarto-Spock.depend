@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633783073 source:c:\meu algoritmos\pedra-papel-tesoura-lagarto-spock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

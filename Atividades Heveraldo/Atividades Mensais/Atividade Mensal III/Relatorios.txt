@@ -1,0 +1,7 @@
+Relatorio de Viagens
+
+Destino               Data             Duração           Valor
+Brasil                 20/10/2003       10                3000.00
+Africa                 15/06/1995       20                1500.00
+
+2 Viagens                     Custo Total: R$4500.00
